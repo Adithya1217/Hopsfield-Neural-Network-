@@ -10,7 +10,7 @@ Input parameters dictate system initialization.
 
 Integration utilizes a 4th-order Runge-Kutta (RK4) method. The system computes the strict mathematical equilibrium where dx/dt = 0 using `scipy.optimize.fsolve`.
 
-## Permissible Modifications
+## Modifications
 
 Structural integrity remains uncompromised only within these explicit bounds:
 
